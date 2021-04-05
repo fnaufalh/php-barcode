@@ -1,0 +1,8 @@
+*.pdf
+*.xls
+*.xlsx
+*.rar
+*.zip
+/doc
+/dompdf
+/vendor
